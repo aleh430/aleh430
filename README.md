@@ -1,3 +1,4 @@
+# sobre mim
 - 👋 olá,sou  **Alessandra**
 - 👀 Sou cursada em *Administração* pela empresa *Assina*
 - 🌱 Completando o Ensino Medio...
